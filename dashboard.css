@@ -1,0 +1,747 @@
+#globalSearchOpener,
+#snooze_section,
+#v-picker,
+.autosave-bar label span,
+.hl_header .n-badge--dot .cursor-pointer,
+.target div .\!border-solid {
+  transform: translate(0, 0);
+}
+
+#app div .flex .w-full .hl_without-topbar #OpportunitiesList .hl-wrapper-container .n-config-provider .wrapper .overflow-x-scroll .cardWrapper .opportunities-scroll .target div div .\!border-solid,
+#funnel-website-btn-primary,
+#funnel-website-btn-secondary,
+#quickActions,
+#tb_apppontment-tab,
+#tb_blogs,
+#tb_bulk-actions,
+#tb_calendar-settings-top,
+#tb_calendars-tab,
+#tb_chat-widget,
+#tb_contact-custom-fields-settings,
+#tb_contacts-restore,
+#tb_contacts-settings-top,
+#tb_content-ai,
+#tb_conversations-tab,
+#tb_email-builder,
+#tb_email-templates,
+#tb_form-builder,
+#tb_funnels,
+#tb_lists,
+#tb_manial-actions,
+#tb_media,
+#tb_opportunities-tab,
+#tb_pipeline,
+#tb_sites-domain-settings,
+#tb_social-planner,
+#tb_survey-builder,
+#tb_tasks,
+#tb_trigger-links,
+#tb_url-redirects,
+#tb_websites,
+#tb_workflow,
+.header-ul li a,
+.hl_wrapper #smartlists .customized-header .header-underline .d-inline-block .header-ul .active a,
+.transition-slowest .flex-col .lg\:justify-between {
+  border-radius: 7px !important;
+}
+
+#canny_logs-toggle,
+#conversation-list .avatar_img,
+.callFromSection .call-wrapper .call-btn,
+.n-avatar,
+.table-sort tr .avatar_img {
+  background-color: #000 !important;
+}
+
+#colViewButton,
+#data-field-download .n-base-wave,
+#data-field-download .n-button__border,
+#data-field-download .n-button__state-border,
+#hl_smartlists--filter-btn,
+.bulk-actions-list span .btn-sm,
+.hl_controls--left > span > .btn-sm,
+.wrapper .flex .mkt-compress {
+  border-radius: 10px;
+}
+
+#activity-tab,
+#appointment-tab,
+#bookAppointment,
+#btn,
+#clear,
+#data-create-opportunity,
+#data-field-download,
+#documents-tab,
+#field-selection,
+#location-dashboard_btn--edit-dashboard,
+#navigation-btn,
+#notes-tab,
+#opportunity-filter-top-bar,
+#task-tab,
+#today,
+.jsPanel-standard {
+  border-radius: 10px !important;
+}
+
+#send-sms,
+.form-control-group .search-form input[type=text],
+.jsPanel-standard .jsPanel-content {
+  border-bottom-left-radius: 10px !important;
+}
+
+#data-field-download {
+  border-width: 2px;
+}
+
+#data-create-opportunity .n-button__border {
+  border-style: solid;
+}
+
+.container-fluid .hl_header--controls .mkt-button-headers {
+  border-radius: 5px !important;
+}
+
+#additional_info_search {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.hl_contact-details-left .additional-search .additional-icon {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#send-sms {
+  border-top-left-radius: 10px !important;
+}
+
+#schedule-later {
+  border-top-right-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+#globalSearchOpener {
+  border-radius: 7px !important;
+}
+
+#globalSearchOpener .justify-start .search-shortcut {
+  border-radius: 5px;
+}
+
+.overflow-x-hidden .w-full p {
+  width: 190px;
+}
+
+#sb_contacts,
+.jsPanel-hdr .jsPanel-headerbar .jsPanel-titlebar {
+  border-top-left-radius: 10px !important;
+}
+
+.hl_header .n-badge--dot .cursor-pointer {
+  border-radius: 10px;
+}
+
+#app div .flex .w-full .hl_wrapper #smartlists .hl_controls .hl_controls--right .form-control-group .search-form input[type=text] {
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+#hl_smartlists-main .card {
+  border-radius: 0 !important;
+}
+
+#hl_smartlists-main .card-like {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+#CalendarsFeatureDiscovery,
+#contact\.email .form-group .form-group .items-center,
+#tb_appointment-report,
+.transition-slowest .md\:hidden .text-xl {
+  visibility: hidden;
+}
+
+.wrapper .target div div .\!border-solid .hl-card-content .flex .text-xs {
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+.target .\!border-solid .text-xs {
+  border-top-right-radius: 10px !important;
+}
+
+#recentButton {
+  border-top-left-radius: 7px !important;
+  border-bottom-left-radius: 7px !important;
+}
+
+#ListButton {
+  border-top-right-radius: 7px !important;
+  border-bottom-right-radius: 7px !important;
+}
+
+.jsPanel-standard .jsPanel-hdr,
+.jsPanel-standard .jsPanel-hdr .jsPanel-headerbar,
+.jsPanel-standard .jsPanel-hdr {
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+}
+
+.jsPanel-standard .jsPanel-content {
+  border-bottom-right-radius: 10px !important;
+}
+
+#conversation-list .time-date,
+#recent_activities-toggle i {
+  position: relative;
+  left: 0;
+}
+
+#conversation-list .contacticon {
+  top: 0;
+  left: -6px;
+}
+
+.input-group-append .btn i {
+  position: relative;
+  top: -70px;
+  left: 230px;
+}
+
+.container-fluid .btn-circle .fas {
+  position:relative;left:-1px;
+}
+
+.container-fluid .dropdown-toggle .btn-circle:hover {
+  background-color: #fff;
+  border-style: solid;
+}
+
+#app div .flex div .hl_header .container-fluid .hl_header--controls .hl_header--dropdown .dropdown-toggle .btn-circle:hover {
+  transform: translate(0, 0) !important;
+  border-color: #000 !important;
+  border-width: 2px !important;
+}
+
+.hl_conversations--wrap div .hl_conversations--message-header,
+.message-input-wrap {
+  border-right-width: 1px;
+}
+
+.container-fluid .btn-circle .fas:hover {
+  color: #198bf5;
+}
+
+.container-fluid .mkt-button-headers i {
+  top: -5px !important;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.lg\:justify-between .items-center .hl_switcher-loc-name {
+  font-size: 15px;
+}
+
+.lg\:justify-between .items-center .hl_location-text {
+  position: relative;
+  top: -4px;
+  left: 0;
+}
+
+#snooze_section {
+  top: 78px;
+  left: 802px;
+}
+
+#snooze_confirm {
+  background-color: #198bf5;
+}
+
+.transition-slowest .flex-col .agency-logo-container {
+  min-height: 87px;
+  transform: translate(0, 0);
+}
+
+.transition-slowest .flex-col .overflow-hidden .agency-logo-container img {
+  max-width: 200% !important;
+  height: 90px !important;
+  width: 200px;
+}
+
+.contact-button-folder .undefined span {
+  font-weight: 400 !important;
+}
+
+.jsPanel-headerbar .jsPanel-controlbar .jsPanel-btn-maximize {
+  display: none !important;
+}
+
+#toolbar-contact-buttons {
+  background-color: #ededed !important;
+  margin-top: 5px !important;
+}
+
+#autosave-checkbox,
+#conversation-list .conversation-selected-v2 .avatar_img {
+  background-color: #198bf5 !important;
+}
+
+.autosave-bar label span {
+  border-radius: 3px !important;
+  position: relative;
+  right: 8px;
+  background-color: #eaeaea;
+}
+
+#autosave-checkbox {
+  border-radius: 2px;
+}
+
+#activityDropdownMenuButton {
+  padding-top: 0;
+  top: 2px;
+}
+
+#contact-details .hl_contact-details-new--wrap .hl_contact-details-left {
+  border-right-color: #bcbcbc;
+}
+
+#contact-details .hl_contact-details-new--wrap .hl_contact-details-right {
+  border-left-color: #c6c6c6;
+}
+
+.hl_contact-details-left .overflow-x-auto .overflow-y-auto > .justify-center {
+  display: none;
+}
+
+#new-crp--contacts > .items-center,
+.hl_conversations--wrap div .hl_conversations--message-header {
+  border-top-width: 1px;
+}
+
+#quickActions .custom-quickactions {
+  top: 174px;
+}
+
+.transition-slowest .flex-col .hl_v2-location_switcher {
+  top: 127px;
+}
+
+.upgrade-header-btn {
+  color: #51b9ff;
+}
+
+.container-fluid .mkt-button-headers .fas {
+  top: 0 !important;
+  left: -4px !important;
+}
+
+#new-crp--contacts .flex-col {
+  visibility: visible;
+}
+
+#contact-buttons {
+  border-bottom-width: 1px;
+  padding-right: 20px !important;
+  position: relative;
+}
+
+.hl_wrapper .custom-link iframe {
+  height: 980px !important;
+}
+
+.message-input-wrap {
+  border-left-width: 1px;
+}
+
+#all-location-see_appointments:hover,
+#all-location-see_tasks:hover {
+  background-color: #007fff !important;
+}
+
+.hl_header--controls .new-changelog-btn {
+  top: 0px !important;
+}
+
+#addNoteButton {
+  background-color: #000000 !important;
+}
+
+#task-tab {
+  background-color: #000000 !important;
+}
+
+.container-fluid .hl_header--controls .mkt-button-headers {
+  line-height: 1em !important;
+  border-top-left-radius: 15px !important;
+  border-top-right-radius: 15px !important;
+  border-bottom-left-radius: 15px !important;
+  border-bottom-right-radius: 15px !important;
+}
+
+.container-fluid .mkt-button-headers .fa-robot {
+  padding-left: 1.2px;
+}
+
+#tb_payment-links {
+  display: none;
+}
+
+#app div .flex div .hl_header .container-fluid .hl_header--controls #azFaqCtrl i {
+  font-size: 14px !important;
+}
+
+#azFaqCtrl {
+  background-color: #000000;
+}
+
+#contact\.email .form-group .form-group {
+  display: none !important;
+}
+
+.divider.topmenu-navitem {
+  display: none !important;
+}
+
+.pt-3\.5.mt-2\.5 .gap-2\.5 .flex .n-form-item-label {
+  display: none !important;
+}
+
+.mt-2\.5.pt-3\.5 .gap-2\.5 .flex-col .n-form-item-blank {
+  display: none !important;
+}
+
+.mt-2\.5.pt-3\.5 .gap-2\.5 .flex-col .n-input-wrapper {
+  display: none !important;
+}
+
+.mt-2\.5.pt-3\.5 .gap-2\.5 .n-form-item--top-labelled.flex-col {
+  display: none !important;
+}
+
+.mt-2\.5.pt-3\.5 .h-\[57\.2px\] {
+  display: none !important;
+}
+
+.mt-2\.5.pt-3\.5 .hl-card-content {
+  display: none !important;
+}
+
+.pt-3\.5.mt-2\.5 .whatsNewCard {
+  display: none !important;
+}
+
+/* Contact details left */
+#contact-details .hl_contact-details-new--wrap .hl_contact-details-left {
+  border-top-width: 1px;
+}
+
+/* Conversations  message */
+.hl_contact-details-new--wrap .hl_contact-details-center .hl_conversations--message {
+  border-top-width: 1px;
+}
+
+/* Contact details right */
+#contact-details .hl_contact-details-new--wrap .hl_contact-details-right {
+  border-top-width: 1px;
+}
+
+/* Toolbar contact buttons */
+#toolbar-contact-buttons {
+  background-color: #ffffff !important;
+}
+
+#globalSearchOpener {
+  display: none;
+}
+
+#quickActions {
+  width: 216px !important;
+  margin-left: 0px !important;
+}
+
+/* Division */
+.transition-slowest .flex-col .lg\:justify-between {
+  margin-bottom: 10px !important;
+}
+
+#quickActions .custom-quickactions {
+  transform: translate(0px, 0px);
+  position: relative;
+}
+
+/* Custom quickactions */
+#app div .flex .transition-slowest .flex-col .overflow-hidden .md\:flex-col #quickActions .custom-quickactions {
+  top: 163px !important;
+}
+
+/* Location switcher */
+.transition-slowest .flex-col .hl_v2-location_switcher {
+  top: 130px !important;
+  position: absolute;
+}
+
+.messages-group span .avatar_img {
+  background: #000000;
+}
+
+/* Button */
+#contact-buttons .btn-sm {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+/* Span Tag */
+#contact-buttons .btn-sm span {
+  font-size: 15px;
+  margin-left: 5px;
+}
+
+/* Button */
+.hl_wrapper div #conversations .hl_conversations--wrap div #contact-buttons .contact-button-folder .undefined {
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+/* Span Tag */
+.hl_wrapper div #conversations .hl_conversations--wrap div #contact-buttons .contact-button-folder .undefined span {
+  font-size: 15px !important;
+}
+
+/* Span Tag */
+#contact-buttons .undefined span {
+  margin-right: 5px;
+}
+
+#toolbar-contact-buttons .btn-sm {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+#toolbar-contact-buttons .btn-sm span {
+  font-size: 15px;
+  margin-left: 5px;
+}
+
+#toolbar-contact-buttons .btn {
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+}
+
+.contact-button-folder .undefined span {
+  font-size: 15px !important;
+  margin-right: 5px;
+}
+
+#toolbar-contact-buttons {
+  display: flex;
+  justify-content: flex-end;
+  column-gap: 3px;
+}
+
+#toolbar-contact-buttons .btn {
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.2);
+}
+
+#toolbar-contact-buttons .btn-sm {
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.2);
+}
+
+#contact-buttons {
+  display: flex;
+  justify-content: flex-end;
+  column-gap: 3px;
+}
+
+#contact-buttons .btn-sm {
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.2);
+}
+
+#contact\.probot {
+  display: none;
+}
+
+#edit-event-modal .card .text-xs {
+  display: none;
+}
+
+/* Card header */
+#edit-event-modal .card .card-header {
+  border-top-left-radius: 7px !important;
+  border-top-right-radius: 7px !important;
+}
+
+/* Card header */
+.container-fluid .row .col-lg-6 .card .card-header {
+  border-top-right-radius: 10px !important;
+}
+
+/* Card header */
+#app div .flex .w-full .hl_settings--body .container-fluid .container-fluid .row .col-lg-6 .card .card-header {
+  border-top-left-radius: 10px !important;
+}
+
+#all-location-tasks {
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+/* Button (hover) */
+#all-location-tasks:hover {
+  background-color: #007fff !important;
+}
+
+/* Button */
+#all-location-appointments {
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+/* Button (hover) */
+#all-location-appointments:hover {
+  background-color: #007fff !important;
+}
+
+/* Button */
+#all-location-pipelines {
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+/* Button (hover) */
+#all-location-pipelines:hover {
+  background-color: #007fff !important;
+}
+
+.hl-header .btn-success {
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
+
+.hl-header .btn-success:hover {
+  background-color: #007fff !important;
+}
+
+#review-sms .card-header--withbutton {
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+}
+
+/* Card header */
+#review-widget .card-header {
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+}
+
+.transition-slowest .text-xl i {
+  display: none;
+}
+
+#CalendarsFeatureDiscovery {
+  display: none !important;
+}
+
+.hl_without-topbar .hl_wrapper .custom-link {
+  position: relative !important;
+  top: -2px;
+}
+
+.bulk-actions-list span .btn-sm {
+  font-weight: 400 !important;
+}
+
+.hl_controls--left > span > .btn-sm {
+  font-weight: 400 !important;
+}
+
+/* Font Icon */
+.bulk-actions-list span .fa-robot {
+  font-size: 14px !important;
+}
+
+.container-fluid .header-button-0 i {
+  font-size: 18px;
+}
+
+#OwnersComponent .flex .border-r {
+  width: 181px;
+  transform: translate(0px, 0px);
+}
+
+/* Text normal */
+.hl_conversations--message-header-new .cursor-pointer .hl-text-sm-normal {
+  width: 106px;
+  align-items: stretch;
+}
+
+/* Max */
+#OwnersComponent .flex .w-max {
+  width: 155px;
+}
+
+/* Flex */
+.hl_conversations--message-header-new .justify-between .items-center .message-header-actions > .flex {
+  display: none;
+}
+
+/* Font Icon */
+.hl_conversations--message-header-new .relative .\!text-lg {
+  color: #007fff !important;
+}
+
+/* Font Icon */
+#app div .flex .w-full .hl_without-topbar .hl_wrapper #contact-details .hl_contact-details-new--wrap .hl_contact-details-center .hl_conversations--message .hl_conversations--message-header-new .justify-between .items-center .message-header-actions .relative i {
+  color: #007fff !important;
+}
+
+#alertModal___BV_modal_body_ div .focus\:outline-none {
+  background-color: #198bf5;
+}
+
+/* Text */
+#notification-list div .text-xl {
+  background-color: #000000 !important;
+}
+
+/* Rounded full */
+.cursor-pointer .flex > .items-center > .rounded-full {
+  background-color: #007fff;
+}
+
+.modal-dialog-slideout .btn-secondary {
+  background-color: #151515 !important;
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
+
+.user-info-card .justify-center .text-xs {
+  color: #000000 !important;
+}
